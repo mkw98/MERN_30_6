@@ -1,0 +1,7 @@
+.navbar {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  background-color: aliceblue;
+  margin-left: auto;
+}
