@@ -4,19 +4,18 @@
   float:left;
 }
 
-.navbar ul{
+.navbar ul {
 	list-style: none;
-	padding-top: 15px;
 }
 
-.navbar ul li{
+.navbar ul li {
 	list-style: none;
 	display: inline-block;
 	float:left;
 	margin-right: 10px;
 	margin-left: 10px;
 }
-.navbar ul li a{
+.navbar ul li a {
 	color: white;
   	text-decoration: none;
 }
