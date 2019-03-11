@@ -13,9 +13,9 @@ export function Navbar() {
         	<li><Link to="/">
             	<p className={styles.navbar_text}>Posts</p>
         	</Link></li>
-        	<Link to="/about">
+        	<li><Link to="/about">
             	<p className={styles.navbar_text}>About</p>
-        	</Link>
+        	</Link></li>
         </ul>
     </div>
   );

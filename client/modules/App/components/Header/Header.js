@@ -14,8 +14,9 @@ export function Header(props, context) {
 
   return (
     <div className={styles.header}>
-      <Navbar />
+
       <div className={styles['language-switcher']}>
+        <Navbar />
         <ul>
           <li><FormattedMessage id="switchLanguage" /></li>
           {languageNodes}
